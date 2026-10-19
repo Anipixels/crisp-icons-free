@@ -1,0 +1,15 @@
+; Crisp Icons Free - demo project. Open this folder in Godot 4.3 or newer and press F5,
+; or copy addons/crisp_icons_free into your own project.
+config_version=5
+
+[application]
+
+config/name="Crisp Icons Free"
+run/main_scene="res://addons/crisp_icons_free/demo/icon_browser.tscn"
+config/features=PackedStringArray("4.3")
+config/icon="res://icon.png"
+
+[display]
+
+window/size/viewport_width=1152
+window/size/viewport_height=648

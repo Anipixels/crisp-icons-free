@@ -1,0 +1,521 @@
+{
+ "count": 42,
+ "full_pack": "https://anipixels.itch.io/crisp-icons",
+ "icons": [
+  {
+   "name": "close",
+   "category": "interface",
+   "keywords": [
+    "close",
+    "x",
+    "cancel",
+    "exit",
+    "dismiss",
+    "interface"
+   ]
+  },
+  {
+   "name": "check",
+   "category": "interface",
+   "keywords": [
+    "check",
+    "tick",
+    "ok",
+    "confirm",
+    "done",
+    "yes",
+    "interface"
+   ]
+  },
+  {
+   "name": "plus",
+   "category": "interface",
+   "keywords": [
+    "plus",
+    "add",
+    "new",
+    "more",
+    "interface"
+   ]
+  },
+  {
+   "name": "menu",
+   "category": "interface",
+   "keywords": [
+    "menu",
+    "hamburger",
+    "navigation",
+    "interface"
+   ]
+  },
+  {
+   "name": "home",
+   "category": "interface",
+   "keywords": [
+    "home",
+    "house",
+    "main",
+    "menu",
+    "lobby",
+    "interface"
+   ]
+  },
+  {
+   "name": "settings",
+   "category": "interface",
+   "keywords": [
+    "settings",
+    "gear",
+    "cog",
+    "options",
+    "preferences",
+    "interface"
+   ]
+  },
+  {
+   "name": "search",
+   "category": "interface",
+   "keywords": [
+    "search",
+    "find",
+    "magnifier",
+    "lens",
+    "interface"
+   ]
+  },
+  {
+   "name": "info",
+   "category": "interface",
+   "keywords": [
+    "info",
+    "about",
+    "details",
+    "help",
+    "interface"
+   ]
+  },
+  {
+   "name": "lock",
+   "category": "interface",
+   "keywords": [
+    "lock",
+    "locked",
+    "secure",
+    "padlock",
+    "interface"
+   ]
+  },
+  {
+   "name": "arrow_left",
+   "category": "arrows",
+   "keywords": [
+    "arrow",
+    "left",
+    "direction",
+    "next",
+    "back",
+    "arrows"
+   ]
+  },
+  {
+   "name": "arrow_right",
+   "category": "arrows",
+   "keywords": [
+    "arrow",
+    "right",
+    "direction",
+    "next",
+    "back",
+    "arrows"
+   ]
+  },
+  {
+   "name": "refresh",
+   "category": "arrows",
+   "keywords": [
+    "refresh",
+    "sync",
+    "reload",
+    "update",
+    "arrows"
+   ]
+  },
+  {
+   "name": "play",
+   "category": "media",
+   "keywords": [
+    "play",
+    "start",
+    "resume",
+    "go",
+    "media"
+   ]
+  },
+  {
+   "name": "pause",
+   "category": "media",
+   "keywords": [
+    "pause",
+    "hold",
+    "break",
+    "media"
+   ]
+  },
+  {
+   "name": "sound_on",
+   "category": "media",
+   "keywords": [
+    "sound",
+    "on",
+    "volume",
+    "audio",
+    "speaker",
+    "loud",
+    "media"
+   ]
+  },
+  {
+   "name": "sound_off",
+   "category": "media",
+   "keywords": [
+    "sound",
+    "off",
+    "mute",
+    "volume",
+    "audio",
+    "silent",
+    "media"
+   ]
+  },
+  {
+   "name": "music",
+   "category": "media",
+   "keywords": [
+    "music",
+    "notes",
+    "song",
+    "audio",
+    "bgm",
+    "media"
+   ]
+  },
+  {
+   "name": "restart",
+   "category": "game",
+   "keywords": [
+    "restart",
+    "replay",
+    "retry",
+    "again",
+    "reset",
+    "game"
+   ]
+  },
+  {
+   "name": "star",
+   "category": "game",
+   "keywords": [
+    "star",
+    "favourite",
+    "rate",
+    "rating",
+    "reward",
+    "game"
+   ]
+  },
+  {
+   "name": "heart",
+   "category": "game",
+   "keywords": [
+    "heart",
+    "life",
+    "love",
+    "like",
+    "health",
+    "favourite",
+    "game"
+   ]
+  },
+  {
+   "name": "trophy",
+   "category": "game",
+   "keywords": [
+    "trophy",
+    "cup",
+    "win",
+    "prize",
+    "champion",
+    "achievement",
+    "game"
+   ]
+  },
+  {
+   "name": "shield",
+   "category": "game",
+   "keywords": [
+    "shield",
+    "defense",
+    "defence",
+    "protect",
+    "armor",
+    "guard",
+    "game"
+   ]
+  },
+  {
+   "name": "gamepad",
+   "category": "game",
+   "keywords": [
+    "gamepad",
+    "controller",
+    "play",
+    "games",
+    "pad",
+    "game"
+   ]
+  },
+  {
+   "name": "coin",
+   "category": "economy",
+   "keywords": [
+    "coin",
+    "money",
+    "gold",
+    "currency",
+    "token",
+    "economy"
+   ]
+  },
+  {
+   "name": "gem",
+   "category": "economy",
+   "keywords": [
+    "gem",
+    "diamond",
+    "jewel",
+    "premium",
+    "currency",
+    "crystal",
+    "economy"
+   ]
+  },
+  {
+   "name": "cart",
+   "category": "economy",
+   "keywords": [
+    "cart",
+    "shop",
+    "buy",
+    "store",
+    "basket",
+    "trolley",
+    "economy"
+   ]
+  },
+  {
+   "name": "gift",
+   "category": "economy",
+   "keywords": [
+    "gift",
+    "present",
+    "reward",
+    "bonus",
+    "box",
+    "free",
+    "economy"
+   ]
+  },
+  {
+   "name": "user",
+   "category": "social",
+   "keywords": [
+    "user",
+    "profile",
+    "account",
+    "player",
+    "person",
+    "avatar",
+    "social"
+   ]
+  },
+  {
+   "name": "chat",
+   "category": "social",
+   "keywords": [
+    "chat",
+    "message",
+    "typing",
+    "talk",
+    "speech",
+    "social"
+   ]
+  },
+  {
+   "name": "mail",
+   "category": "social",
+   "keywords": [
+    "mail",
+    "email",
+    "message",
+    "envelope",
+    "inbox",
+    "letter",
+    "social"
+   ]
+  },
+  {
+   "name": "hammer",
+   "category": "items",
+   "keywords": [
+    "hammer",
+    "build",
+    "craft",
+    "tool",
+    "repair",
+    "forge",
+    "items"
+   ]
+  },
+  {
+   "name": "bomb",
+   "category": "items",
+   "keywords": [
+    "bomb",
+    "explode",
+    "explosive",
+    "blast",
+    "booster",
+    "items"
+   ]
+  },
+  {
+   "name": "potion",
+   "category": "items",
+   "keywords": [
+    "potion",
+    "bottle",
+    "booster",
+    "elixir",
+    "health",
+    "mana",
+    "items"
+   ]
+  },
+  {
+   "name": "apple",
+   "category": "food",
+   "keywords": [
+    "apple",
+    "fruit",
+    "food",
+    "health",
+    "eat"
+   ]
+  },
+  {
+   "name": "run",
+   "category": "actions",
+   "keywords": [
+    "run",
+    "sprint",
+    "move",
+    "player",
+    "character",
+    "fast",
+    "actions"
+   ]
+  },
+  {
+   "name": "jump",
+   "category": "actions",
+   "keywords": [
+    "jump",
+    "leap",
+    "hop",
+    "player",
+    "move",
+    "up",
+    "actions"
+   ]
+  },
+  {
+   "name": "phone",
+   "category": "devices",
+   "keywords": [
+    "phone",
+    "mobile",
+    "smartphone",
+    "device",
+    "portrait",
+    "devices"
+   ]
+  },
+  {
+   "name": "tap",
+   "category": "devices",
+   "keywords": [
+    "tap",
+    "touch",
+    "press",
+    "finger",
+    "click",
+    "gesture",
+    "devices"
+   ]
+  },
+  {
+   "name": "sun",
+   "category": "nature",
+   "keywords": [
+    "sun",
+    "day",
+    "light",
+    "weather",
+    "bright",
+    "summer",
+    "nature"
+   ]
+  },
+  {
+   "name": "fire",
+   "category": "nature",
+   "keywords": [
+    "fire",
+    "flame",
+    "hot",
+    "burn",
+    "element",
+    "streak",
+    "combo",
+    "nature"
+   ]
+  },
+  {
+   "name": "face_smile",
+   "category": "faces",
+   "keywords": [
+    "face",
+    "smile",
+    "happy",
+    "emoji",
+    "smiley",
+    "good",
+    "mood",
+    "faces"
+   ]
+  },
+  {
+   "name": "sparkle",
+   "category": "shapes",
+   "keywords": [
+    "sparkle",
+    "shine",
+    "star",
+    "magic",
+    "new",
+    "glint",
+    "shapes"
+   ]
+  }
+ ]
+}
